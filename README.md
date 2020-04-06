@@ -1,7 +1,9 @@
 # TradeJack
 
 ## Description
-This is Reverse task bidding application where users can post tasks or projects they need help with and other users can bid on those tasks. 
+Every year millions of americans overpay hundreds of dollars on simple tasks that need to be completed. This is inpart due to limited number of companies fulfilling those tasks and the fact that it is troublesome to obtain a quotation on jobs that need to get complete. This is where our application comes in. Trade Jack is a Reverse task bidding application where users can post tasks or projects they need help with and other users can bid on those tasks. 
+
+Users will want to post tasks on our site to have their tasked completed at a lower rate and companies will want to visit our site to earn money. There is a mutual benifit for both parties. Through our site users can posts tasks they want to accomplish and monitor the bidding for their tasks. They will also be able to bid on other tasks as well and keep track of them. New tasks will be shown on the homepage and all tasks where the user bidded or posted as well as closed ones will be posted on their homepage.
 
 ## Technologies Used
  ### Front:
